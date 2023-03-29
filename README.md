@@ -13,11 +13,11 @@ cd api_final_yatube
 Cоздать и активировать виртуальное окружение:
 
 ```
-python -m venv env
+python -m venv venv
 ```
 
 ```
-source env/bin/activate
+source venv/scripts/activate
 ```
 
 Установить зависимости из файла requirements.txt:
