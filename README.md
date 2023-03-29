@@ -7,7 +7,7 @@ git clone https://github.com/AlexandrSakulin/api_final_yatube.git
 ```
 
 ```
-cd yatube_api
+cd api_final_yatube
 ```
 
 Cоздать и активировать виртуальное окружение:
