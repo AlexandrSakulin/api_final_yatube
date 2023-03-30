@@ -7,7 +7,7 @@ from .permissions import IsAuthorOrReadOnly
 from .serializers import (CommentSerializer, FollowSerializer, GroupSerializer,
                           PostSerializer)
 
-from posts.models import Follow, Group, Post
+from posts.models import Group, Post
 
 
 class PostViewSet(viewsets.ModelViewSet):
